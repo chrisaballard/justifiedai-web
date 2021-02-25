@@ -143,14 +143,14 @@ unsafe = true
 [outputs]
 home = ["HTML"]
 [params]
-author = "Themefisher"
+author = "JustifiedAI"
 contact_form_action = "#"
 description = "This is meta description"
-email = "demo@email.com"
+email = "hello@justifiedai.co.uk"
 google_analitycs_id = ""
-location = "North Main Street,Brooklyn Australia"
-logo = "images/logo.png"
-logo_width = "150px"
+location = "Norwich, UK"
+logo = "/images/justifiedai-logo.svg"
+logo_width = "250px"
 mobile = "0124857985320"
 multi_author = false
 [params.cookies]
