@@ -3,12 +3,12 @@ banner:
   enable: true
   bg_image: images/banner-bg.jpg
   bg_overlay: true
-  title: Justified AI
+  title: AI Justified.
   content: AI and Machine Learning consultants. We enable you to use AI and Machine
     Learning to solve real problems.
   button:
     enable: true
-    label: Discover Our Project
+    label: See what we can do for you
     link: project
 about:
   enable: true
