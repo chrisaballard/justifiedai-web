@@ -12,9 +12,18 @@ banner:
     link: project
 about:
   enable: true
-  title: AI Justified.
-  description: We know that you need to justify your investment in AI.
-  content: ''
+  title: About us
+  description: You need to justify your investment in AI. We are an AI and Machine
+    Learning consultancy who will enable you to use AI to solve the right problems
+    for the right reasons.
+  content: |-
+    AI is touted as being a game changing technology that can transform a business and  provide them with real competitive advantages.
+
+    It is certainly true that it can create opportunities for revenue growth through creation of new technical capabilities. It can be used to reduce costs through automation of business processes.
+
+    But it is also true that many AI projects fail to deliver on expectations, and that small scale AI projects tend to be more successful than "highly ambitious moon shots"
+
+    Our consultants will work with you to help you build your strategy and business case, all the way through to delivering an AI solution that meets your needs.
   image: images/about_image.svg
 portfolio:
   enable: true
