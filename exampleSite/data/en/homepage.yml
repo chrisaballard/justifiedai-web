@@ -4,8 +4,8 @@ banner:
   bg_image: images/banner-bg.jpg
   bg_overlay: true
   title: AI Justified.
-  content: AI and Machine Learning consultants. We enable you to use AI and Machine
-    Learning to solve the right problems for the right reasons.
+  content: AI and Machine Learning consultants. We use AI and Machine Learning to
+    solve the right problems for the right reasons.
   button:
     enable: true
     label: Who are we?
