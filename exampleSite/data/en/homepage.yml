@@ -24,7 +24,7 @@ about:
     But it is also true that many AI projects fail to deliver on expectations, and that small scale AI projects tend to be more successful than "highly ambitious moon shots"
 
     We are an AI and Machine Learning consultancy who can help you to find the right applications for AI, and then put it to practical use. Our consultants will work with you to build your strategy and business case and deliver an AI solution that that meets your needs.
-  image: images/about_image.svg
+  image: images/justifiedai-logo.svg
 portfolio:
   enable: true
   bg_image: images/help-image.svg
