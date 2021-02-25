@@ -14,10 +14,7 @@ about:
   enable: true
   title: AI Justified.
   description: We know that you need to justify your investment in AI.
-  content: |-
-    Our extensive experience in technical strategy and building end to end Machine Learning solutions will enable you to solve the right problems for the right reasons.
-
-    That's AI Justified.
+  content: ''
   image: images/about_image.svg
 portfolio:
   enable: true
