@@ -1,7 +1,7 @@
 ---
 banner:
   enable: true
-  bg_image: images/slider-bg.jpg
+  bg_image: images/banner-bg.jpg
   bg_overlay: true
   title: Justified AI
   content: AI and Machine Learning consultants. We enable you to use AI and Machine
