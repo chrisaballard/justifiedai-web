@@ -28,16 +28,20 @@ about:
 portfolio:
   enable: true
   bg_image: images/featue-bg.jpg
-  title: How we can help
+  title: How we can help you
   content: |-
-    - Harness AI in order to realise its benefits on the best opportunities
-    - Choose where to invest in your AI capability
-    - Maximise your chances of achieving your business objectives
-    - Put together the right team to build, maintain and grow your AI capability
-    - Develop an AI solution from inception through to deployment
+    Harness AI in order to realise its benefits on the best opportunities
+
+    Choose where to invest in your AI capability
+
+    Maximise your chances of achieving your business objectives
+
+    Put together the right team to build, maintain and grow your AI capability
+
+    Develop an AI solution from inception through to deployment
   button:
     enable: true
-    label: View Works
+    label: See how we can help
     link: project
 service:
   enable: true
