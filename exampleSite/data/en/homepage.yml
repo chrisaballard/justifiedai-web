@@ -18,7 +18,7 @@ about:
     Our extensive experience in technical strategy and building end to end AI and Machine Learning solutions will enable you to solve real problems and use AI for the right reasons.
 
     That's AI Justified.
-  image: images/about-image.svg
+  image: images/about_image.svg
 portfolio:
   enable: true
   bg_image: images/featue-bg.jpg
