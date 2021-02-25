@@ -27,7 +27,7 @@ about:
   image: images/about-image.svg
 portfolio:
   enable: true
-  bg_image: images/help-image.svg
+  bg_image: images/help-background.svg
   title: How we can help you
   content: |-
     Harness AI in order to realise its benefits on the best opportunities
