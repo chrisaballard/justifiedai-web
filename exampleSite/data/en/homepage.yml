@@ -13,17 +13,12 @@ banner:
 about:
   enable: true
   title: AI Justified.
-  description: |-
-    We know that you need to justify your investment in AI. Our extensive experience in technical strategy and building end to end AI and Machine Learning solutions will enable you to solve real problems and use AI for the right reasons.
+  description: We know that you need to justify your investment in AI.
+  content: |-
+    Our extensive experience in technical strategy and building end to end AI and Machine Learning solutions will enable you to solve real problems and use AI for the right reasons.
 
     That's AI Justified.
-  content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-    nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
-    fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-    culpa qui officia deserunt mollit anim id.
-  image: images/wrapper-img.png
+  image: images/about-image.svg
 portfolio:
   enable: true
   bg_image: images/featue-bg.jpg
