@@ -28,11 +28,13 @@ about:
 portfolio:
   enable: true
   bg_image: images/featue-bg.jpg
-  title: Justify your investment
+  title: How we can help
   content: |-
-    Our extensive experience in technical strategy and building end to end Machine Learning solutions will enable you to solve the right problems for the right reasons.
-
-    That's AI Justified.
+    - Harness AI in order to realise its benefits on the best opportunities
+    - Choose where to invest in your AI capability
+    - Maximise your chances of achieving your business objectives
+    - Put together the right team to build, maintain and grow your AI capability
+    - Develop an AI solution from inception through to deployment
   button:
     enable: true
     label: View Works
