@@ -8,7 +8,7 @@ banner:
     Learning to solve real problems.
   button:
     enable: true
-    label: See what we can do for you
+    label: Who are we?
     link: project
 about:
   enable: true
