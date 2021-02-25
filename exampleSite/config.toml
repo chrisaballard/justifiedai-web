@@ -151,7 +151,7 @@ google_analitycs_id = ""
 location = "Norwich, UK"
 logo = "/images/justifiedai-logo.svg"
 logo_width = "250px"
-mobile = "0124857985320"
+mobile = "07707 508122"
 multi_author = false
 [params.cookies]
 enable = true
@@ -202,20 +202,11 @@ preloader = ""
 [params.widgets]
 sidebar = ["recent_posts", "taxonomy_category", "taxonomy_tags"]
 [[params.social]]
-icon = "ion-social-googleplus-outline"
-link = "#"
+icon = ""
+link = ""
 [[params.social]]
 icon = "ion-social-linkedin-outline"
-link = "#"
-[[params.social]]
-icon = "ion-social-pinterest-outline"
-link = "#"
-[[params.social]]
-icon = "ion-social-dribbble-outline"
-link = "#"
+link = "https://www.linkedin.com/in/chrisballarduk/"
 [[params.social]]
 icon = "ion-social-twitter-outline"
-link = "#"
-[[params.social]]
-icon = "ion-social-facebook-outline"
 link = "#"
