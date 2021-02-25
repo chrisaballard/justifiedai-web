@@ -202,9 +202,6 @@ preloader = ""
 [params.widgets]
 sidebar = ["recent_posts", "taxonomy_category", "taxonomy_tags"]
 [[params.social]]
-icon = ""
-link = ""
-[[params.social]]
 icon = "ion-social-linkedin-outline"
 link = "https://www.linkedin.com/in/chrisballarduk/"
 [[params.social]]
