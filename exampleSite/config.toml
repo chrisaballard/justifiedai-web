@@ -151,7 +151,7 @@ google_analitycs_id = ""
 location = "Norwich, UK"
 logo = "/images/justifiedai-logo.svg"
 logo_width = "250px"
-mobile = "07707 508122"
+mobile = ""
 multi_author = false
 [params.cookies]
 enable = true
